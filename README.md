@@ -1,4 +1,4 @@
-# 🚚 IoT-Based Food Perish Prevention System
+# IoT-Based Food Perish Prevention System
 
 A smart, Arduino-based temperature-controlled container system designed to preserve perishable food items during transportation. The system uses sensors and actuators to maintain optimal environmental conditions and sends real-time data to ThingSpeak via the ESP-01 WiFi module.
 
