@@ -37,6 +37,8 @@ A smart, Arduino-based temperature-controlled container system designed to prese
 
 | Component        | Pin         |
 |------------------|-------------|
+| DHT11            | D2          |
+| DS18B20          | D3          |
 | Relay - Heater   | D4          |
 | Relay - Cooler   | D5          |
 | Hot Mode Button  | D6          |
@@ -45,9 +47,7 @@ A smart, Arduino-based temperature-controlled container system designed to prese
 | Veg Puffs Button | D9          |
 | Milk Button      | D12         |
 | Cool Drinks Btn  | D13         |
-| DHT11            | A0          |
-| LM35             | A1          |
-| DS18B20          | A2          |
+| LM35             | A0          |
 | ESP-01 TX        | Connected via SoftwareSerial |
 | LCD (I2C)        | SDA - A4, SCL - A5 |
 
